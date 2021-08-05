@@ -15,7 +15,7 @@ def multiply(num1, num2):
 def divide(num1, num2):
 	return num1 / num2
 
-print("Please select operation -\n" \
+print("Please Enter the select operation -\n" \
 		"1. Add\n" \
 		"2. Subtract\n" \
 		"3. Multiply\n" \
